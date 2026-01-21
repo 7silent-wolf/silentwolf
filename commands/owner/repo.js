@@ -226,12 +226,12 @@ export default {
         txt += `│ ✧ *Last Updated* : ${moment(data.updated_at).format('DD/MM/YYYY HH:mm:ss')}\n`;
        // txt += `│ ✧ *Language* : ${data.language || 'JavaScript'}\n`;
         txt += `│ ✧ *Repository* : ${repoUrl}\n`;
-        txt += `│\n`;
-        txt += `│ *Description* :\n`;
-        txt += `│ ${data.description || 'A powerful WhatsApp bot with 400+ commands'}\n`;
-        txt += `│\n`;
+        //txt += `│\n`;
+        txt += `│ *Description* :${data.description || 'A powerful WhatsApp bot with 400+ commands'}\n;`;
+        //txt += `│ ${data.description || 'A powerful WhatsApp bot with 400+ commands'}\n`;
+        //txt += `│\n`;
         txt += `│ Hey ${mentionTag}! 👋\n`;
-        txt += `│ _This is our NEW CLEAN repository!_ 🎉\n`;
+        txt += `│ _Official Wolf_ 🎉`;
         txt += `│ *Please fork and star the repo!* ⭐\n`;
         txt += `╰───────────────`;
 
