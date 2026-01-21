@@ -28,7 +28,7 @@
 <div align="center">    
 <strong> DEPLOY WOLFBOT </strong>
     <br>
-  <a href="https://auth-ivory-delta.vercel.app/">
+  <a href="https://hilda-project.vercel.app/register">
     <img src="https://img.shields.io/badge/Deploy%20WOLFBOT-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="FORK REPO"/>
   </a>
 </div>
