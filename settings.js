@@ -20,13 +20,13 @@ export default {
     // Repository URLs - UPDATED
     repository: {
       // Your main repository (your current bot)
-      main: "https://github.com/7silent-wolf/silentwolf.git",
+      main: "https://github.com/7silent-wolf/silentwolf",
       
       // Remote repository (where updates come from)
-      upstream: " https://github.com/7-s-w/k.git",
+      upstream: " https://github.com/7-s-w/k",
       
       // Backup owner repository (if needed)
-      owner: "https://github.com/7silent-wolf/silentwolf.git"
+      owner: "https://github.com/7silent-wolf/silentwolf"
     },
     
     // ZIP update URL (fallback method)
