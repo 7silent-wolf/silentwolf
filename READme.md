@@ -45,7 +45,7 @@
 <p align="center">  
 <strong> DOWNLOAD ZIP </strong>
     <br>
-    <a href="https://github.com/7silent-wolf/silentwolf-main.git" target="_blank">
+    <a href="https://github.com/7silent-wolf/silentwolf/archive/refs/heads/main.zip" target="_blank">
         <img alt="Download zip" src="https://img.shields.io/badge/DOWNLOAD%20 ZIP-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkgreen"/>
     </a>
 </p>
