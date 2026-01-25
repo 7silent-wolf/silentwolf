@@ -37,7 +37,7 @@
 <div align="center">
 <strong> SESSION PAIR </strong>
     <br>
-  <a href="https://wolfbot-pair-1.onrender.com/" target="_blank">
+  <a href="https://wolfpair.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/pair %20code 1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="PAIR"/>
   </a>
 </div>
