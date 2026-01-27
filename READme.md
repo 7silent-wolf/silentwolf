@@ -26,14 +26,13 @@
 
 
 <div align="center">    
-<strong> 🚀 DEPLOY WOLFBOT ON HEROKU </strong>
+<strong> DEPLOY WOLFBOT </strong>
     <br>
-  <a href="https://heroku.com/deploy?template=https://github.com/7silent-wolf/silentwolf">
-    <img src="https://img.shields.io/badge/🐺_DEPLOY_WOLFBOT-22C55E?style=for-the-badge&logo=heroku&logoColor=white&labelColor=16A34A" alt="Deploy WolfBot" height="50"/>
-  </a>
-  <br>
-  <sub><i>One-click Heroku deployment</i></sub>
+    <a href="https://heroku.com/deploy?template=https://github.com/7silent-wolf/silentwolf" target="_blank">
+        <img src="https://img.shields.io/badge/DEPLOY%20WOLFBOT-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=darkgreen&color=darkgreen" alt="DEPLOY WOLFBOT"/>
+    </a>
 </div>
+<br>
 
 <br>
 <div align="center">
