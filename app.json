@@ -1,14 +1,29 @@
 {
   "name": "Silent WolfBot",
   "description": "Professional WhatsApp Bot with auto-session authentication",
-  "repository": "https://github.com/7silent-wolf/silentwolf.git",
   "logo": "https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md/main/src/logo.jpg",
   "keywords": ["whatsapp", "bot", "wolfbot", "baileys", "session"],
+  "repository": "https://github.com/7silent-wolf/silentwolf.git",
+  "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
   "env": {
     "SESSION_ID": {
-      "description": "REQUIRED: Your WhatsApp session ID.Starts with WOLF-BOT\n",
+      "description": "REQUIRED: Your WhatsApp session ID. Must begin with 'WOLF-BOT'",
       "value": "",
       "required": true
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
     }
   },
   "buildpacks": [
@@ -16,13 +31,13 @@
       "url": "heroku/nodejs"
     },
     {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
-  ],
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "eco"
-    }
-  }
+  ]
 }
