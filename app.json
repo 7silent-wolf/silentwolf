@@ -6,8 +6,8 @@
   "keywords": ["whatsapp", "bot", "wolfbot", "baileys", "session"],
   "env": {
     "SESSION_ID": {
-      "description": "REQUIRED: Your WhatsApp session ID\n",
-      "value": "WOLF-BOT:",
+      "description": "REQUIRED: Your WhatsApp session ID.Starts with WOLF-BOT\n",
+      "value": "",
       "required": true
     }
   },
