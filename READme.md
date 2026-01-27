@@ -28,11 +28,11 @@
 <div align="center">
     <strong>DEPLOY WOLFBOT ON HEROKU</strong>
     <br>
-    <a href="https://hilda-project.vercel.app/register?template=https://github.com/7silent-wolf/silentwolf&redirect=https://heroku.com/deploy" target="_blank">
+    <a href="https://69792248c0980522e8cc315a--inspiring-genie-ebae09.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/DEPLOY%20WOLFBOT-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=darkgreen&color=darkgreen" alt="DEPLOY WOLFBOT"/>
     </a>
     <br>
-    <small>Click the button above, enter your GitHub username, then deploy to Heroku</small>
+    <small>Click → Enter GitHub username → Deploy to Heroku</small>
 </div>
 
 <br>
