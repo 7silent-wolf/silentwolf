@@ -32,7 +32,6 @@
         <img src="https://img.shields.io/badge/DEPLOY%20WOLFBOT-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=darkgreen&color=darkgreen" alt="DEPLOY WOLFBOT"/>
     </a>
     <br>
-    <small>Click → Enter GitHub username → Deploy to Heroku</small>
 </div>
 
 <br>
